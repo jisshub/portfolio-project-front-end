@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-project-front-end",
+  "version": "1.0.0",
+  "description": "Portfolio Website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jisshub/portfolio-project-front-end.git"
+  },
+  "author": "Jissmon Jose",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jisshub/portfolio-project-front-end/issues"
+  },
+  "homepage": "https://github.com/jisshub/portfolio-project-front-end#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.3"
+  }
+}
