@@ -47,5 +47,9 @@ $dark-color: #333;
 $bg-image: url('../img/showcase.jpg')
 ```
 
+## Header and Main Nav
 
+```html
+
+```
 
