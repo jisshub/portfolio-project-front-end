@@ -20,6 +20,12 @@ h2, h3, h4 {
 img {
   width: 100%; }
 
+#logo {
+  width: 70px;
+  height: 70px;
+  color: #fff;
+  text-transform: uppercase; }
+
 #header-home {
   background: url("../img/showcase.jpg") no-repeat center right/cover;
   height: 100vh;
